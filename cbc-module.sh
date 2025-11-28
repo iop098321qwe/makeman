@@ -6,7 +6,7 @@
 
 makeman() {
   local file=""
-  local output_dir="$HOME/Documents/grymms_grimoires/command_manuals"
+  local output_dir="$HOME/Documents/grymms_grimoires/99000_other/99500_command_manuals"
   local command=""
   local remove_unlisted=false
 
